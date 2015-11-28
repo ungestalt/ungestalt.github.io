@@ -3,7 +3,7 @@ published: true
 title: Es ist immer mu.
 layout: post
 tags: [intro, mu, ungestalt, travel, german]
-categories: [private, travel, deutsch]
+categories: [mu]
 ---
 10 Jahre ist es her, dass ich das Bedürfnis verspürt habe, meinen Gedankenballast außerhalb der kleinen Nebenschauplätze im sozialen Netz von facebook & Co. in der digitalen Welt zu hinterlassen.
 Damals war es ein kleiner Reiseblog von meiner gemeinsamen Reise mit Torsten Schaumburg nach Indien und Thailand. Der sollte für Freunde und Familie sein. Gut für uns, da wir Geschehnisse beobachten, berichten und beim schreiben reflektieren konnten. Gut für die Posse daheim, da Sie teilhaben konnte an unserer Reise.
