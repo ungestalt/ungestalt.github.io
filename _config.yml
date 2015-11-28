@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ungestalt.github.io
+title: Meister Mu sagt Mu
+tagline: A log of everyday life
+description: Blog, Gedanken, Berichte, Bereiche
+paginate: 5
